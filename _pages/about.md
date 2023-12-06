@@ -19,7 +19,7 @@ Hello! I am a second-year master's student in computer science at University of 
 
 Previously, I studied math of computation at University of California - Los Angeles, where I worked with [Dr. Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal/) on developing hyperbolic graph neural networks. I was also a research assistant under the mentorship of [Dr. Laurel Perkins](https://laurelperkins.com/) at UCLA where I investigated child language acquisition via Bayesian statistics.
 
-My research interests lie in developing computational tools to facilitate interpretability and generalizability of language models by capturing and leveraging structures in data. Here is a link to my [CV](https://xfcui.github.io/website/assets/pdf/CV_Xinyue_Cui.pdf).
+My research interests lie in developing computational tools to facilitate interpretability and generalizability of language models by capturing and leveraging structures in data. Here is a link to my [CV](https://x-f-cui.github.io/website/assets/pdf/CV_Xinyue_Cui.pdf).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
